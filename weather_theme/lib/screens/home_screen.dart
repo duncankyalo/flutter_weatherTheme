@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: CustomAppBar(
-        title: 'Weather App',
+        title: 'DuncansWeather App',
         actions: [
           ThemeSwitcher(),
         ],
